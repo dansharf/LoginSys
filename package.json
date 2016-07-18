@@ -1,0 +1,23 @@
+{
+  "name": "login_sys",
+  "version": "1.0.0",
+  "description": "User Login Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dansharf/LoginSys.git"
+  },
+  "author": "danil sharafutdinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dansharf/LoginSys/issues"
+  },
+  "homepage": "https://github.com/dansharf/LoginSys#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http": "0.0.0"
+  }
+}
